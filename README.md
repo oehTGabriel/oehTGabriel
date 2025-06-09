@@ -10,35 +10,36 @@
 
 Sou apaixonado por tecnologia e atualmente curso Análise e Desenvolvimento de Sistemas no Biopark Educação. Tenho experiência prática no desenvolvimento de sites e interfaces modernas com foco em usabilidade e responsividade.
 
-Atualmente estudo **tecnologias de Back-End**, começando com a linguagem **C**, e busco uma oportunidade de estágio para crescer junto à empresa.
+Atualmente estou aprendendo tecnologias de **Back-End**, iniciando com a linguagem **C**, e buscando minha primeira oportunidade de estágio em programação.
 
 ---
 
 ## 💡 Tecnologias e Ferramentas
 
-**Linguagens e Frameworks**  
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="20"/> HTML  
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20"/> CSS  
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20"/> JavaScript  
-<img src="https://cdn-icons-png.flaticon.com/512/732/732245.png" width="20"/> Tailwind CSS  
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="20"/> C
+### Linguagens & Frameworks  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=fff)
 
-**Ferramentas**  
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="20"/> GitHub  
-<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="20"/> Google Docs  
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="20"/> Google Sheets
+### Ferramentas  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Google Docs](https://img.shields.io/badge/-Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=fff)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=fff)
 
 ---
 
 ## 📈 Projetos
 
-No meu GitHub, você encontrará projetos em **desenvolvimento front-end**, com foco em interfaces modernas e práticas com **HTML, CSS, JavaScript e Tailwind**. Também iniciei projetos com **lógica de programação em C**.
+Em meu GitHub, você encontrará projetos voltados ao **desenvolvimento front-end**, interfaces com **Tailwind**, e experiências iniciais com **lógica de programação em C**. A cada novo projeto, busco evoluir minhas habilidades e experimentar novas tecnologias.
 
 ---
 
 ## 🎯 Objetivo
 
-Busco um **estágio em programação** para aplicar meus conhecimentos, aprender com profissionais e crescer junto à empresa. Tenho boa comunicação, trabalho bem em equipe e foco em entregas e resolução de problemas.
+Busco um **estágio em programação** onde eu possa aplicar meus conhecimentos, colaborar com uma equipe e crescer junto com a empresa. Tenho boa comunicação, foco em entregas, resolução de problemas e espírito de equipe.
 
 ---
 
@@ -49,9 +50,10 @@ Busco um **estágio em programação** para aplicar meus conhecimentos, aprender
 
 ---
 
-## 🤝 Contato
+## 🤝 Vamos nos conectar?
 
 📧 **theod.conto@gmail.com**  
-📍 **Maripá - PR**  
+📍 **Maripá, PR**  
 🔗 [LinkedIn](https://www.linkedin.com/in/theo-nicolas-bau-gabriel-a59080269/)  
 💻 [GitHub](https://github.com/oehTGabriel)
+
