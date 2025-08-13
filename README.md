@@ -8,9 +8,9 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e atualmente curso Análise e Desenvolvimento de Sistemas no Biopark Educação. Tenho experiência prática no desenvolvimento de sites e interfaces modernas com foco em usabilidade e responsividade.
+Sou apaixonado por tecnologia e atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Donaduzzi (2º Período). Tenho experiência prática no desenvolvimento de sites e interfaces modernas com foco em usabilidade e responsividade.
 
-Atualmente estou aprendendo tecnologias de **Back-End**, iniciando com a linguagem **C**, e buscando minha primeira oportunidade de estágio em programação.
+Atualmente estou aprendendo tecnologias de **Back-End**, iniciando com a linguagem **C, Java** e iniciando conhecimentos em **Banco de Dados**, e buscando minha primeira oportunidade de estágio em programação.
 
 ---
 
