@@ -1,6 +1,6 @@
 # 👨‍💻 Théo Nicolas Baú Gabriel
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | 3º Período 
 📍 Maripá - Paraná | 📅 Conclusão prevista: 2027  
 📧 theod.conto@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/theo-nicolas-bau-gabriel-a59080269/) | 💻 [Meu GitHub](https://github.com/oehTGabriel)
 
@@ -52,8 +52,6 @@
 
 ---
 
-⭐️ _“Sempre em busca de aprender, evoluir e transformar ideias em soluções.”_  
----
 
 ## 🌍 Idiomas
 
