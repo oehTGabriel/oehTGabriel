@@ -9,7 +9,7 @@
 # 👋 Olá, eu sou o Théo Nicolas Bau Gabriel  
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** (Faculdade Donaduzzi) apaixonado por programação e tecnologia.  
-📚 Atualmente explorando **Java, C, MySQL, React, HTML, CSS, JavaScript e Tailwind**.  
+📚 Atualmente explorando **Java, Spring Boot (APIs REST), Docker, PostgreSQL, MySQL, React, HTML, CSS, JavaScript e Tailwind**.  
 🚀 Busco oportunidades de **estágio em desenvolvimento de software** para aplicar meus conhecimentos e crescer junto à empresa.  
 
 ---
@@ -22,10 +22,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-### ⚙️ Back-End & Lógica  
+### ⚙️ Back-End & Banco de Dados  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![API REST](https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=json_web_tokens&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 🐋 Infraestrutura & Containers  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ### 📂 Versionamento & Colaboração  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -51,9 +56,7 @@
 
 ---
 
-
 ## 🌍 Idiomas
 
 - 🇧🇷 Português (nativo)  
-- 🇺🇸 Inglês avançado 
-
+- 🇺🇸 Inglês avançado
